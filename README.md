@@ -1,3 +1,2 @@
-
-Mojito experimental apps.
+Mojito experiments.
 
